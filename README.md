@@ -1,4 +1,5 @@
-用法
+Usage
+
 wget https://raw.githubusercontent.com/acewinner1999/kms-/master/kms_server.sh
 
 chmod +x kms_server.sh
